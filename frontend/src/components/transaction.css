@@ -1,0 +1,38 @@
+#transaction {
+    margin: 30px;
+    border: solid;
+}
+
+#transaction .vendor{
+    margin: 10px;
+    font-size: 2vw;
+}
+
+#transaction .deposit{
+    margin: 10px;
+    font-size: 2vw;
+    color: green;
+}
+
+#transaction .withdraw{
+    margin: 10px;
+    font-size: 2vw;
+    color: red;
+}
+
+#transaction .category{
+    margin: 10px;
+    font-size: 2vw;
+}
+
+#transaction .delete-withdraw{
+    margin: 10px;
+    font-size: 2vw;
+    background-color: red;
+}
+
+#transaction .delete-deposit{
+    margin: 10px;
+    font-size: 2vw;
+    background-color: green;
+}

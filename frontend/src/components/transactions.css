@@ -1,0 +1,10 @@
+.transactions-container{
+    display: flex;
+    justify-content: center;
+}
+
+#transactions{
+    padding: 20px;
+    width: min(800px, 100%);
+}
+
